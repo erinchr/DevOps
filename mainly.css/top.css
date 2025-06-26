@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img{width:70px;
+}
+ul{
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+}

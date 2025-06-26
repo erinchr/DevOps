@@ -1,0 +1,11 @@
+#errors{
+    color:red;
+}
+button{
+    background-color: aquamarine;
+}
+.splide__slide{
+    height: 100%;
+    width: 100%;
+    display: auto;
+}
